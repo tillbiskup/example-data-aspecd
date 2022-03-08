@@ -41,3 +41,11 @@ Once you have setup everything, performing the analysis from within the director
   serve example-recipe.yaml
 
 As a result, you should see a file ``uvvis-normalised.pdf`` appear in the same directory, containing the figure representing all four optical absorption spectra normalised each to its low-energy absorption band.
+
+
+License
+-------
+
+All files are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. See the file ``LICENSE`` for more details.
+
+
