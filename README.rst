@@ -13,7 +13,7 @@ To provide readers of the publication describing the ASpecD framework with a con
 
 The actual analysis of the data provided here has been given in:
 
-* Clemens Matt, Deborah L. Meyer, Florian Lombeck, Michael Sommer, Till Biskup: TBT Entirely Dominates the Electronic Structure of the Conjugated Copolymer PCDTBT: Insights from Time-Resolved Electron Paramagnetic Resonance Spectroscopy. *Macromolecules* **51**:4341–4349, 2018. doi:`10.1021/acs.macromol.8b00791 <https://dx.doi.org/10.1021/acs.macromol.8b00791>`_.
+* Clemens Matt, Deborah L. Meyer, Florian Lombeck, Michael Sommer, Till Biskup. TBT Entirely Dominates the Electronic Structure of the Conjugated Copolymer PCDTBT: Insights from Time-Resolved Electron Paramagnetic Resonance Spectroscopy. *Macromolecules* **52**:4341–4349, 2020. doi:`10.1021/acs.macromol.8b00791 <https://dx.doi.org/10.1021/acs.macromol.8b00791>`_.
 
 
 Contents
