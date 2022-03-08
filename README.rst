@@ -1,3 +1,7 @@
+.. image:: https://zenodo.org/badge/467643820.svg
+   :target: https://zenodo.org/badge/latestdoi/467643820
+   :align: right
+
 Example for working with the ASpecD framework
 =============================================
 
