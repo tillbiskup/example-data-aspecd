@@ -1,13 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite both the article from the references section and the dataset itself."
-title: Example for working with the ASpecD framework, Popp and Biskup, Chem. Meth. 2:e202100097, 2022
+title: Example data for working with the ASpecD framework
 abstract: >
-    This directory contains the example data for the following publication:
+    ASpecD is a Python framework for handling spectroscopic data focussing on reproducibility. In short: Each and every processing step applied to your data will be recorded and can be traced back. Additionally, for each representation of your data (e.g., figures, tables) you can easily follow how the data shown have been processed and where they originate from.
+
+    To provide readers of the publication describing the ASpecD framework with a concrete example of data analysis making use of recipe-driven data analysis, this repository contains both, a recipe as well as the data that are analysed, as shown in the publication describing the ASpecD framework:
 
     * Jara Popp, Till Biskup: ASpecD: A Modular Framework for the Analysis of Spectroscopic Data Focussing on Reproducibility and Good Scientific Practice. Chemistry--Methods 2:e202100097, 2022. doi:10.1002/cmtd.202100097
 authors:
-  - family-names: Popp
-    given-names: Jara
   - family-names: Biskup
     given-names: Till
     orcid: "https://orcid.org/0000-0003-2913-0004"
