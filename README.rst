@@ -5,9 +5,9 @@
 Example for working with the ASpecD framework
 =============================================
 
-ASpecD is a Python framework for handling spectroscopic data focussing on reproducibility. In short: Each and every processing step applied to your data will be recorded and can be traced back. Additionally, for each representation of your data (e.g., figures, tables) you can easily follow how the data shown have been processed and where they originate from. For further details, see its `documentation <https://docs.aspecd.de/>`_. A preprint of the publication describing the ASpecD framework is available from ChemRxiv:
+ASpecD is a Python framework for handling spectroscopic data focussing on reproducibility. In short: Each and every processing step applied to your data will be recorded and can be traced back. Additionally, for each representation of your data (e.g., figures, tables) you can easily follow how the data shown have been processed and where they originate from. For further details, see its `documentation <https://docs.aspecd.de/>`_ and the publication in *Chemistry--Methods* describing the ASpecD framework:
 
-* Jara Popp, Till Biskup. ASpecD: A Modular Framework for the Analysis of Spectroscopic Data Focussing on Reproducibility and Good Scientific Practice. *ChemRxiv*, 2021. doi:`10.26434/chemrxiv-2021-6jt1l <https://doi.org/10.26434/chemrxiv-2021-6jt1l>`_.
+* Jara Popp, Till Biskup. ASpecD: A Modular Framework for the Analysis of Spectroscopic Data Focussing on Reproducibility and Good Scientific Practice. *Chemistry--Methods* **2**:e202100097, 2022. doi:`10.1002/cmtd.202100097 <https://doi.org/10.1002/cmtd.202100097>`_.
 
 
 Aim

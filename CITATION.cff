@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite both the article from the references section and the dataset itself."
+title: Example for working with the ASpecD framework, Popp and Biskup, Chem. Meth. 2:e202100097, 2022
+abstract: >
+    This directory contains the example data for the following publication:
+
+    * Jara Popp, Till Biskup: ASpecD: A Modular Framework for the Analysis of Spectroscopic Data Focussing on Reproducibility and Good Scientific Practice. Chemistry--Methods 2:e202100097, 2022. doi:10.1002/cmtd.202100097
+authors:
+  - family-names: Popp
+    given-names: Jara
+  - family-names: Biskup
+    given-names: Till
+    orcid: "https://orcid.org/0000-0003-2913-0004"
+type: dataset
+license: "CC-BY-4.0"
+repository-code: "https://github.com/tillbiskup/example-data-aspecd"
+keywords:
+  - "reproducible research"
+  - "spectroscopy"
+  - "software"
+  - "data analysis"
+references:
+  - type: article
+    authors:
+    - family-names: Popp
+      given-names: Jara
+    - family-names: Biskup
+      given-names: Till
+      orcid: "https://orcid.org/0000-0003-2913-0004"
+    title: "ASpecD: A Modular Framework for the Analysis of Spectroscopic Data Focussing on Reproducibility and Good Scientific Practice"
+    doi: 10.1002/cmtd.202100097
+    journal: "Chemistry--Methods"
+    volume: 2
+    pages: e202100097
+    year: 2022
+identifiers:
+  - description: "The concept DOI of the work."
+    type: doi
+    value: 10.5281/zenodo.6338804
